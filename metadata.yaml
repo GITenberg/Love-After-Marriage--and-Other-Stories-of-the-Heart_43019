@@ -1,0 +1,37 @@
+_repo: Love-After-Marriage--and-Other-Stories-of-the-Heart_43019
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43019-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hentz, Caroline Lee
+    birthdate: 1800
+    deathdate: 1856
+    gutenberg_agent_id: '9311'
+    url: http://www.gutenberg.org/2009/agents/9311
+    wikipedia: http://en.wikipedia.org/wiki/Caroline_Lee_Hentz
+description: A prominent and somewhat controversial literary figure during her lifetime,
+  Caroline Lee Hentz was an American educator and writer who began producing impressive
+  stories and plays when barely in her teens. After founding a number of schools throughout
+  the Midwest and South, Hentz settled in Florida. The collection Love After Marriage
+  displays the full breadth of her talent, with stories that unfold in settings ranging
+  from wealthy enclaves to humble Shaker communities.
+gutenberg_issued: '2013-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- !lcsh 'Fiction'
+tableOfContents: Love after marriage -- The victim of excitement -- The blind girl's
+  story -- The parlour serpent -- The Shaker girl -- A rainy evening -- Three scenes
+  in the life of a belle -- The fatal cosmetic -- The Abyssinian neophyte -- The village
+  anthem -- The bosom serpent -- My grandmother's bracelet -- The mysterious reticule.
+title: Love After Marriage; and Other Stories of the Heart
+url: http://www.gutenberg.org/ebooks/43019
